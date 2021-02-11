@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Gaurav</h1>
-<h3 align="center">A Competitive Programmer & A Android Devloper</h3>
+<h3 align="center">A Competitive Programmer & Android Devloper. Presently a 2nd year CSE UG student in JSSATE,NOIDA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgupta2002&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgupta2002" /> </p>
 
@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gaurav gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav gupta" height="30" width="40" /></a>
-<a href="https://fb.com/gaurav gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gaurav gupta" height="30" width="40" /></a>
+<a href="https://twitter.com/gauravgupta2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gauravgupta2001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gaurav-gupta-73bb9118b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav-gupta-73bb9118b" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100039624994309" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=100039624994309" height="30" width="40" /></a>
 <a href="https://instagram.com/gauravgupta200222" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="gauravgupta200222" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gaurav_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurav_2002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gauravgupta2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="gauravgupta2002" height="30" width="40" /></a>
