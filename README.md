@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravgupta2002&label=Profile%20views&color=0e75b6&style=flat" alt="gauravgupta2002" /> </p>
 
-- 🔭 I’m currently learning **Data Structure And Algo**
+- 🔭 I’m currently improving **Problem Solving Skills**
 
-- 🌱 I’m currently working on **Data Storage in Android**
+- 🌱 I’m currently working on **A Project Of Android App**
 
 - Practising: **Problem Solving**
 
