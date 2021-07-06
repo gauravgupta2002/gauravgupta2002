@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi This is Gaurav Gupta
 #### A Competitive Programmer & Android Devloper. Presently a 2nd year CSE UG student in JSSATE,NOIDA.
 
-Skills: C / C++ / Android Devlopment / Android SDK / Core Java / Data Structures & Algorithms
+Skills: C / C++ / Competitive Programming / Android Devlopment / Core Java / Data Structures & Algorithms
 
 - 🔭 I’m currently working on An Android Project 
 - 🌱 I’m currently learning  Problem Solving Skills 
