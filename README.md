@@ -1,13 +1,13 @@
 ### Hi there 👋, This is Gaurav Gupta
-#### A Competitive Programmer & Android Devloper. Presently a 3rd year CSE UG student in JSSATE,NOIDA.
+#### A Data Engineer, Programmer & Android Developer.
 
-Skills: C / C++ / Competitive Programming / Android Devlopment / Core Java / Data Structures & Algorithms 
+Skills: C / C++ / Competitive Programming / Android Development / Core Java / Data Structures & Algorithms 
 
-- 🔭 I’m currently working on An Android Project 
-- 🌱 I’m currently learning  Problem Solving Skills 
-- 👯 I’m looking to collaborate on Projects 
+- 🔭 I’m currently working in Biz2Credit as Associate Data Engineer. 
+- 🌱 I’m currently honing the AWS skills. 
+- 👯 Would be great to collaborate on Projects on Cloud or Android. 
 - 📫 How to reach me: gauravgupta200222@gmail.com 
-- ⚡ Fun fact: I'm good in Cricket & A Music Lover 
+- ⚡ Fun fact: I'm good at Cricket and a Music Lover 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
