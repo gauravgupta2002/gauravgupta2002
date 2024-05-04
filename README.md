@@ -4,7 +4,7 @@
 Skills: C / C++ / Competitive Programming / Android Development / Core Java / Data Structures & Algorithms 
 
 - 🔭 I’m currently working in Biz2Credit as Associate Data Engineer. 
-- 🌱 I’m currently honing the AWS skills. 
+- 🌱 I’m currently honing the AWS skills and have became effeficien in Power BI 
 - 👯 Would be great to collaborate on Projects on Cloud or Android. 
 - 📫 How to reach me: gauravgupta200222@gmail.com 
 - ⚡ Fun fact: I'm good at Cricket and a Music Lover 
