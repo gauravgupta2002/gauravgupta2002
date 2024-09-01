@@ -1,11 +1,11 @@
 ### Hi there 👋, This is Gaurav Gupta
-#### A Data Engineer, Programmer & Android Developer.
+#### A Data Engineer 
 
 Skills: C / C++ / Competitive Programming / Android Development / Core Java / Data Structures & Algorithms 
 
-- 🔭 I’m currently working in Biz2Credit as Associate Data Engineer. 
-- 🌱 I’m currently honing the AWS skills and have became effeficien in Power BI 
-- 👯 Would be great to collaborate on Projects on Cloud or Android. 
+- 🔭 I’m currently working in Biz2Credit as Data Engineer. 
+- 🌱 I’m currently honing the AWS skills and have became effeficient in Power BI 
+- 👯 Would be great to collaborate on Projects on ETL or CI/CD. 
 - 📫 How to reach me: gauravgupta200222@gmail.com 
 - ⚡ Fun fact: I'm good at Cricket and a Music Lover 
 
